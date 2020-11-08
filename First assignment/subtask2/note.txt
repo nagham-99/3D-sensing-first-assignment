@@ -1,0 +1,6 @@
+- open the pointCloud.ply file with Meshlab
+
+
+
+- I couldn't use the same images in the subtask1 cause I couldn't calibrate them,
+it said in the calibration app in MATLAB (no check board detected)
